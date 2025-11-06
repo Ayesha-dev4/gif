@@ -25,11 +25,8 @@ The `turtle` module lets you control a “turtle” that moves around the screen
 ## 🚀 How to Run
 
 1. Make sure you have **Python 3** installed.  
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/turtle-heart.git
-   cd turtle-heart
-
+2. Clone this repository
 
 https://github.com/user-attachments/assets/2dfc80fb-a2c2-4cdb-8de3-deda896b20d3
+
 
